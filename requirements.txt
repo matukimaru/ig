@@ -1,0 +1,8 @@
+trading_ig
+python-decouple
+requests
+munch
+pycryptodome
+requests-cache
+six
+pandas
